@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ "'git status -s'" ]
+if [ "`git status -s`" ]
 then
 	echo "commit pending changes"
 	exit 1;
