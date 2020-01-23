@@ -27,4 +27,4 @@ git add --all
 git commit -m "publishing to gh-pages"
 
 echo "pushing to github"
-git push -all
+git push --all
