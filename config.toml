@@ -1,7 +1,7 @@
 # Page settings
 
-#baseurl = "https://parkietje.github.io/resume/"
-baseurl = "/resume"
+baseurl = "https://parkietje.github.io/resume/"
+#baseurl = "/resume"
 languageCode = "en-us"
 title = "parkietje CV"
 theme = "hugo-orbit-theme"
